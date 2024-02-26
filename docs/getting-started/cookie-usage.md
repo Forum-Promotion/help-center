@@ -19,10 +19,10 @@ Cookies may be stored on your computer for a short time (such as only while your
 
 This site uses cookies for numerous things, including:
 
-*   Registration and maintaining your preferences. This includes ensuring that you can stay logged in and keeping the site in the language or appearance that you requested.
-*   Analytics. This allows us to determine how people are using the site and improve it.
-*   Advertising cookies (possibly third-party). If this site displays advertising, cookies may be set by the advertisers to determine who has viewed an ad or similar things. These cookies may be set by third parties, in which case this site has no ability to read or write these cookies.
-*   Other third-party cookies for things like Facebook or Twitter sharing. These cookies will generally be set by the third-party independently, so this site will have no ability to access them.
+-   Registration and maintaining your preferences. This includes ensuring that you can stay logged in and keeping the site in the language or appearance that you requested.
+-   Analytics. This allows us to determine how people are using the site and improve it.
+-   Advertising cookies (possibly third-party). If this site displays advertising, cookies may be set by the advertisers to determine who has viewed an ad or similar things. These cookies may be set by third parties, in which case this site has no ability to read or write these cookies.
+-   Other third-party cookies for things like Facebook or Twitter sharing. These cookies will generally be set by the third-party independently, so this site will have no ability to access them.
 
 ### Additional cookies and those set by third parties
 
@@ -34,12 +34,12 @@ Other cookies may be set by third party service providers which may provide info
 
 Managing your cookies and cookie preferences must be done from within your browser's options/preferences. Here is a list of guides on how to do this for popular browser software:
 
-*   [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
-*   [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
-*   [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
-*   [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
-*   [Safari for macOS](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
-*   [Safari for iOS](https://support.apple.com/en-gb/HT201265)
+-   [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+-   [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
+-   [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+-   [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+-   [Safari for macOS](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+-   [Safari for iOS](https://support.apple.com/en-gb/HT201265)
 
 ### More information about cookies
 
