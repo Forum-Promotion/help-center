@@ -16,7 +16,7 @@ const config = {
   url: "https://help.forumpromotion.net/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "https://help.forumpromotion.net/",
+  baseUrl: "/help-centre/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
