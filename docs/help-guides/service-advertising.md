@@ -6,11 +6,13 @@ parent: Guide
 ---
 # Advertising Services
 
-Our Advertising Services are a free way to promote your website. This service goes hand in hand with the [Promotion Directory](https://community.forumpromotion.net/directory/), but allows you to give your website additional exposure to our members. This article contains information on how to request an ad, and how to best take advantage of the service.
+
+
+Our Advertising Services are a free way to promote your website. This service goes hand in hand with the [Promotion Directory](https://forumpromotion.net/forum/guide/directory/), but allows you to give your website additional exposure to our members. This article contains information on how to request an ad, and how to best take advantage of the service.
 
 ### How to Request an Ad
 
-To request an ad, simply create a new topic in our ad request forum. Before you do that, take a quick look over the Advertising Service Guidelines. After you’ve read the guidelines, you can request an ad by clicking here.
+To request an ad, simply create a new topic in our ad request forum. Before you do that, take a quick look over the [Advertising Service Guidelines](https://forumpromotion.net/forum/viewtopic.php?f=236&t=132178). After you’ve read the guidelines, you can request an ad by [clicking here](https://forumpromotion.net/forum/forums/advertising-services.236/create-thread).
 
 ### Which ad type should I choose?
 
@@ -27,4 +29,4 @@ To request an ad, simply create a new topic in our ad request forum. Before you 
 
 ### Premium Advertisements
 
-If you are interested in purchasing paid advertisements, which provide maximum exposure for your website, then please [visit this page](http://forumpromotion.net/advertise/?_gl=1*xxlmqc*_ga*MTQ3NDYwMjc5OS4xNjg3ODc4NjE5*_ga_9DS1NXD6PX*MTY4OTI5OTE3Ny42Mi4xLjE2ODkzMDEwNjYuMC4wLjA.).
+If you are interested in purchasing paid advertisements, which provide maximum exposure for your website, then please [visit this page](https://forumpromotion.net/advertise/).

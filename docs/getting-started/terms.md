@@ -77,4 +77,4 @@ The Global Rules set out below is part of our Terms of Service so if you accept 
 
 ## Questions
 
-- Do you have any questions? If so, please contact an [Administrator](https://community.forumpromotion.net/members/?key=staff_members).
+- Do you have any questions? If so, please contact an [Administrator](https://forumpromotion.net/members/?key=staff_members).
