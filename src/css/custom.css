@@ -84,8 +84,7 @@
   border-color: rgb(21, 111, 197);
 }
 
-[data-theme="light"]
-  .card.padding--lg.cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module:hover,
+[data-theme="light"] .card:hover,
 [data-theme="light"].pagination-nav__link.pagination-nav__link--prev:hover {
   border-color: rgb(21, 111, 197);
 }
@@ -163,8 +162,7 @@
   border-color: rgb(21, 111, 197);
 }
 
-[data-theme="dark"]
-  .card.padding--lg.cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module:hover,
+[data-theme="dark"] .card:hover,
 [data-theme="dark"] .pagination-nav__link.pagination-nav__link--prev:hover {
   border-color: rgb(21, 111, 197);
 }
