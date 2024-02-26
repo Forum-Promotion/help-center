@@ -45,13 +45,13 @@ const config = {
           sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "hhttps://github.com/Forum-Promotion/help-centre",
+          editUrl: "https://github.com/Forum-Promotion/help-centre",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "hhttps://github.com/Forum-Promotion/help-centre",
+          editUrl: "https://github.com/Forum-Promotion/help-centre",
         },
         theme: {
           customCss: "./src/css/custom.css",
