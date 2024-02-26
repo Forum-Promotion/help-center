@@ -1,46 +1,63 @@
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
-import styles from './styles.module.css';
+import clsx from "clsx";
+import Heading from "@theme/Heading";
+import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: "Guides",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Use our guides to help you get familiar with the Forum Promotion
+        platform and the community. They can help you and your website grow.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: "Our Services",
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Our services are designed to help you grow your website and community.
+        We offer a variety of services such as Posting Packages, Graphics,
+        Reviews and many more to help you grow your website and community.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: "Help",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        If you are having issues with your account, advertising, or haven't been
+        able to find the answer your answer, then you can:
+        <ul>
+          <li>
+            Email us at{" "}
+            <a href="mailto:admin@forumpromotion.net">
+              admin@forumpromotion.net
+            </a>{" "}
+            or use our contact form by{" "}
+            <a href="https://forumpromotion.net/misc/contact">
+              clicking here.{" "}
+            </a>
+            <br></br>
+            <b>Note:</b> Account related issues please reach out via contact
+            form or email.
+          </li>
+          <li>
+            Post a question in{" "}
+            <a href="https://forumpromotion.net/forums/community-matters.2/">
+              Community Matters.
+            </a>
+          </li>
+        </ul>
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ title, description }) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
+    <div className={clsx("col col--4")}>
+      <div className="text--center"></div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>

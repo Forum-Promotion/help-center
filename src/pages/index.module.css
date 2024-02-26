@@ -4,11 +4,19 @@
  */
 
 .heroBanner {
+  color: white;
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: #041735 url("/static/img/bg.png");
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
 }
+
+
 
 @media screen and (max-width: 996px) {
   .heroBanner {

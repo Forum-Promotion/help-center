@@ -1,0 +1,10 @@
+{
+    "label": "Help Guides",
+    "position": 2,
+    "link": {
+        "type": "generated-index",
+        "title": "Help Guides",
+        "description": "Various help guides to help guide your journey with Forum Promotion",
+        "slug": "/help-guides/"
+      }
+  }
