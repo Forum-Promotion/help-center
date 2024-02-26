@@ -54,18 +54,19 @@
   color: rgb(21, 111, 197);
 }
 [data-theme="light"] .navbar__item.navbar__link.navbar__link--active,
-.menu__link.menu__link--active,
-.breadcrumbs__link,
-.theme-edit-this-page,
-.pagination-nav__label,
-.table-of-contents__link.toc-highlight.table-of-contents__link--active {
+[data-theme="light"] .menu__link.menu__link--active,
+[data-theme="light"] .breadcrumbs__link,
+[data-theme="light"] .theme-edit-this-page,
+[data-theme="light"] .pagination-nav__label,
+[data-theme="light"]
+  .table-of-contents__link.toc-highlight.table-of-contents__link--active {
   color: #77acd9;
 }
 
 [data-theme="light"] .menu__link.menu__link--active,
-.breadcrumbs__link,
-.theme-edit-this-page,
-.pagination-nav__label {
+[data-theme="light"] .breadcrumbs__link,
+[data-theme="light"] .theme-edit-this-page,
+[data-theme="light"] .pagination-nav__label {
   color: rgb(21, 111, 197);
 }
 
@@ -85,7 +86,7 @@
 
 [data-theme="light"]
   .card.padding--lg.cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module:hover,
-.pagination-nav__link.pagination-nav__link--prev:hover {
+[data-theme="light"].pagination-nav__link.pagination-nav__link--prev:hover {
   border-color: rgb(21, 111, 197);
 }
 
@@ -163,7 +164,7 @@
 
 [data-theme="dark"]
   .card.padding--lg.cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module:hover,
-.pagination-nav__link.pagination-nav__link--prev:hover {
+[data-theme="dark"] .pagination-nav__link.pagination-nav__link--prev:hover {
   border-color: rgb(21, 111, 197);
 }
 
