@@ -138,11 +138,12 @@
   color: rgb(21, 111, 197);
 }
 [data-theme="dark"] .navbar__item.navbar__link.navbar__link--active,
-.menu__link.menu__link--active,
-.breadcrumbs__link,
-.theme-edit-this-page,
-.pagination-nav__label,
-.table-of-contents__link.toc-highlight.table-of-contents__link--active {
+[data-theme="dark"] .menu__link.menu__link--active,
+[data-theme="dark"] .breadcrumbs__link,
+[data-theme="dark"] .theme-edit-this-page,
+[data-theme="dark"] .pagination-nav__label,
+[data-theme="dark"]
+  .table-of-contents__link.toc-highlight.table-of-contents__link--active {
   color: #77acd9;
 }
 
