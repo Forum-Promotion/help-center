@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Employment Zone
-permalink: /employment-zone/
+slug: /employment-zone/
 parent: Guide
 ---
 # Employment Zone
