@@ -78,6 +78,9 @@ const config = {
             position: "left",
             label: "Getting Started",
           },
+          { to: "docs/help-guides", label: "Help Guides", position: "left" },
+
+          { to: "docs/our-services", label: "Our Services", position: "left" },
           {
             href: "https://github.com/Forum-Promotion/help-centre",
             label: "GitHub",
