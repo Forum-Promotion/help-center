@@ -5,7 +5,7 @@ permalink: /team/
 nav_order: 4
 ---
 
-# Meet the current [staff members](https://community.forumpromotion.net/members/?key=staff_members) of Forum Promotion.
+# Meet the current [staff members](https://forumpromotion.net/members/?key=staff_members) of Forum Promotion.
 
 <table>
   <tbody>
@@ -27,25 +27,7 @@ nav_order: 4
       <td align="center">
         <ul>
           <li>Katrina</li>
-          <li>PGen98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Community Team</td>
-      <td align="center">
-        <ul>
-          <li>Wessel (CTL)</li>
-          <li>Gigi (CTLA)</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Package Team</td>
-      <td align="center">
-        <ul>
-          <li>Wessel</li>
-          <li>Gigi</li>
+          <li>John</li>
         </ul>
       </td>
     </tr>
