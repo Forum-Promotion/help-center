@@ -176,3 +176,28 @@
   font-size: 14px;
   text-transform: uppercase;
 }
+
+/* CSS for team page */
+.staffContainer {
+  columns: 2;
+  display: flex;
+  justify-content: space-between;
+}
+.staffCard {
+  width: 50%;
+  background-color: red;
+  overflow: hidden;
+  height: 100px;
+  margin: 2px;
+}
+
+.staffCard:hover {
+  color: white;
+  box-shadow: 0 0 0 11px rgba(255, 255, 255, 0.1);
+  height: auto;
+  width: 100%;
+}
+
+.staffHeading {
+  display: block;
+}
