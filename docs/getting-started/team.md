@@ -11,6 +11,13 @@ nav_order: 4
   <h2>Administration Team</h2>
 </div>
 
+<ul>
+  <li>Cam</li>
+  <li>Malcolm</li>
+  <li>Katrina</li>
+  <li>PGen98</li>
+</ul>
+<!--
 <div class="staffContainer">
     <div class="staffCard">
       <span>Cameron Taylor</span>
@@ -43,3 +50,4 @@ nav_order: 4
     </div>
   <div class="staffTeamLeaders"></div>
 </div>
+-->

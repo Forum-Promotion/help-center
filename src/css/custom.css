@@ -201,3 +201,16 @@
 .staffHeading {
   display: block;
 }
+.test123 {
+  display: block;
+  text-align: left;
+}
+
+.helpNotice {
+  border: 1px solid #0d3458;
+  border-radius: 5px;
+  background-color: #1c73c4;
+  line-height: 1.5;
+  padding: 2.5px;
+  color: white;
+}
