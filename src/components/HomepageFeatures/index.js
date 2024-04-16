@@ -28,19 +28,19 @@ const FeatureList = [
       <>
         If you are having issues with your account, advertising, or haven't been
         able to find the answer your answer, then you can:
-        <ul>
+        <ul className="test123">
           <li>
             Email us at{" "}
             <a href="mailto:admin@forumpromotion.net">
               admin@forumpromotion.net
             </a>{" "}
-            or use our contact form by{" "}
-            <a href="https://forumpromotion.net/misc/contact">
-              clicking here.{" "}
-            </a>
+            or use our{" "}
+            <a href="https://forumpromotion.net/misc/contact">contact form. </a>
             <br></br>
-            <b>Note:</b> Account related issues please reach out via contact
-            form or email.
+            <div className="helpNotice">
+              <b>Note:</b> Account related issues please reach out via contact
+              form or email.
+            </div>
           </li>
           <li>
             Post a question in{" "}

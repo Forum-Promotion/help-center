@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Forum Promotion Help Centre",
+  title: "Forum Promotion Help Center",
   tagline: "Best Webmaster, Admin and Internet Marketing Forum",
   favicon: "img/favicon.ico",
 
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "Forum-Promotion", // Usually your GitHub org/user name.
-  projectName: "help-centre", // Usually your repo name.
+  projectName: "help-center", // Usually your repo name.
   deploymentBranch: "master",
   trailingSlash: false,
 
@@ -45,13 +45,13 @@ const config = {
           sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/Forum-Promotion/help-centre",
+          editUrl: "https://github.com/Forum-Promotion/help-center",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/Forum-Promotion/help-centre",
+          editUrl: "https://github.com/Forum-Promotion/help-center",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Help Centre",
+        title: "Help Center",
         logo: {
           alt: "Forum Promotion Logo",
           src: "img/xenforo-logo.png",
@@ -82,7 +82,7 @@ const config = {
 
           { to: "docs/our-services", label: "Our Services", position: "left" },
           {
-            href: "https://github.com/Forum-Promotion/help-centre",
+            href: "https://github.com/Forum-Promotion/help-center",
             label: "GitHub",
             position: "right",
           },
@@ -126,7 +126,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/Forum-Promotion/help-centre",
+                href: "https://github.com/Forum-Promotion/help-center",
               },
               {
                 label: "Status",
