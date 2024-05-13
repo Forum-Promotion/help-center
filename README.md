@@ -1,3 +1,9 @@
+# Contributing
+
+If you intend to edit the content of the help center, then all you need to do is create a new branch. From there create or edit the docs within the `/docs` folder.
+
+Once your edits are complete, go to the root of the repo and merge pull request. Someone will review it, provide any feedback/changes if required then merge your branch into main.
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
