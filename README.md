@@ -1,8 +1,17 @@
 # Contributing
 
-If you intend to edit the content of the help center, then all you need to do is create a new branch. From there create or edit the docs within the `/docs` folder.
+If you intend to edit the content of the help center, then all you need to do is create a new branch. Once created make sure you are using that new branch. From there create or edit the docs within the `/docs` folder.
+
+![Create new branch](image-1.png)
+![image showing doc folder](image.png)
+![make sure branch is the new created, and edit using pencil](image-2.png)
 
 Once your edits are complete, go to the root of the repo and merge pull request. Someone will review it, provide any feedback/changes if required then merge your branch into main.
+
+![Once done, click commit. Give a title, and details of what you changed followed by making sure you have "Commit directly to the (branch you create) branch](image-3.png)
+
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 # Website
 
