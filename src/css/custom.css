@@ -75,6 +75,15 @@
   color: rgb(21, 111, 197);
 }
 
+[data-theme=light] .navbar__item:hover {
+  background: #fff;
+  color: #77acd9;
+}
+
+[data-theme=light] .navbar__item.navbar__link--active {
+  box-shadow: inset 0 0 0 1px #fff;
+}
+
 [data-theme="light"]
   .table-of-contents__link.toc-highlight.table-of-contents__link
   > a:hover {
@@ -150,6 +159,15 @@
 [data-theme="dark"]
   .table-of-contents__link.toc-highlight.table-of-contents__link--active {
   color: #77acd9;
+}
+
+[data-theme=dark] .navbar__item:hover {
+  background: #fff;
+  color: #77acd9;
+}
+
+[data-theme=dark] .navbar__item.navbar__link--active {
+  box-shadow: inset 0 0 0 1px #fff;
 }
 
 [data-theme="dark"]
