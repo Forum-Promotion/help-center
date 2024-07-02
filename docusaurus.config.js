@@ -73,8 +73,7 @@ const config = {
         },
         items: [
           {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            to: "docs/welcome",
             position: "left",
             label: "Getting Started",
           },
