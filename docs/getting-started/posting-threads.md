@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Title here
+title: Creating threads
 permalink: /directory/
 parent: Guide
+nav_order: 300
 ---
 
 # How to Post a Thread on Forum Promotion

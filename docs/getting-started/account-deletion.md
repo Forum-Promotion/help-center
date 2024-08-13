@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Title here
+title: Account Deletion
 permalink: /directory/
 parent: Guide
+nav_order: 500
 ---
 
 # How to request for Account Deletion on Forum Promotion
@@ -45,3 +46,4 @@ Best regards,
 [Your Name]
 
 We hope this helps with any question regarding deleting your account on Forum Promotion.
+```

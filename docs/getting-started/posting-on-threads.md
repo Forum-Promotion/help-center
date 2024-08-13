@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Title here
+title: Replying to threads
 permalink: /directory/
 parent: Guide
+nav_order: 400
 ---
 
 # How to Reply to a Post on Forum Promotion
@@ -16,7 +17,7 @@ Replying to a post on a Forum Promotion is a great way to engage in discussions,
 
 ## Step 2: Identify the Post
 
-1. Scroll down to find the specific post you want to reply to. 
+1. Scroll down to find the specific post you want to reply to.
 2. Each post will have options for replying, such as Quote, Reply, or Like.
 
 ## Step 3: Replying to the Post

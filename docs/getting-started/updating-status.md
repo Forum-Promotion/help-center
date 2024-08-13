@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Title here
+title: Updating status
 permalink: /directory/
 parent: Guide
 ---
@@ -40,7 +40,7 @@ Updating your status on Forum Promotion is a great way to share your current tho
 
 ## Step 8: Edit or Delete Your Status (If Needed)
 
-  - If you wish to change your status after posting:
-  - Navigate to your profile or the feed where your status appears.
-  - Look for an Edit or Delete option near your status update.
-  - Click Edit or Delete an enter a reason for deletion.
+- If you wish to change your status after posting:
+- Navigate to your profile or the feed where your status appears.
+- Look for an Edit or Delete option near your status update.
+- Click Edit or Delete an enter a reason for deletion.
