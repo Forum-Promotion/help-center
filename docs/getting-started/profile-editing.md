@@ -12,40 +12,39 @@ Editing your profile on Forum Promotion is a straightforward process. Follow the
 ## Step 1: Access Your Profile
 
 1. Once logged in, locate your username or profile picture at the top right corner of the page.
-2. Click on your username or profile picture to open a dropdown menu.
+2. Click on your **username or profile picture** to open a dropdown menu.
 3. Select Account Details from the dropdown options.
 
 ## Step 3: Edit Your Profile Information
 
-1. On your account details, look for an Edit Profile button or link, typically located near your profile picture or at the top of your profile.
-2. Click on Edit Profile to access the profile editing options.
+1. On your account details, utilize the **sidebar on the lefthand side** to make any edits. 
 
 ### Profile Fields
 
-- Username: This is editable. If you need to change it, you may need to contact a administrator.
-- Email Address: You can update your email address here.
-- Location: Add or change your location information.
-- Website: If you have a personal website, you can include the URL here.
-- Referrer: The username of the member who referred you.
-- Gender: Your gender that you wish to display.
-- Occupation: Add or change your occupation.
-- About You: Write a brief description about yourself.
-- Articles Author Name: The articles author name replaces the FP username being displayed on articles.
-- About Article Author: About you for articles.
-- About Blog Entry Author: About you for blog entries.
+- **Username:** This is editable. If you need to change it, you may need to contact a administrator.
+- **Email Address:** You can update your email address here.
+- **Location:** Add or change your location information.
+- **Website:** If you have a personal website, you can include the URL here.
+- **Referrer:** The username of the member who referred you.
+- **Gender:** Your gender that you wish to display.
+- **Occupation:** Add or change your occupation.
+- **About You:** Write a brief description about yourself.
+- **Articles Author Name:** The articles author name replaces the FP username being displayed on articles.
+- **About Article Author:** About you for articles.
+- **About Blog Entry Author:** About you for blog entries.
 
 ### Identities
 
-- Skype: Display your Skype username.
-- Facebook: Display your Facebook username.
-- Twitter: Display your Twitter username.
-- Instagram: Display your Instagram username.
-- Snapchat: Display your Snapchat username.
+- **Skype:** Display your Skype username.
+- **Facebook:** Display your Facebook username.
+- **Twitter:** Display your Twitter username.
+- **Instagram:** Display your Instagram username.
+- **Snapchat:** Display your Snapchat username.
 
 ## Step 4: Change Your Avatar
 
 1. In the account details section, look for the Avatar section.
-2. Click on the existing avatar to change your profile picture.
+2. Click on the **existing avatar image** to change your profile picture.
 3. Select a new image file from your device and upload it. Make sure the image meets the size requirements.
 
 ## Step 5: Update Your Signature
@@ -61,4 +60,4 @@ Editing your profile on Forum Promotion is a straightforward process. Follow the
 ## Step 7: Save Changes
 
 1. After making all your desired changes, scroll down to the bottom of the page.
-2. Click the Save button on the bottom of the page.
+2. Click the **Save button** on the bottom of the page.

@@ -12,7 +12,7 @@ If you wish to delete your account on Forum Promotion, you will need to contact 
 
 ## Step 1: Locate the Contact Information
 
-1. Look for a Contact Us link, it is found in the footer (bottom right) on Forum Promotion.
+1. Look for our Contact Us link, it is found in the footer **(bottom right corner)** on Forum Promotion.
 2. Contact an administrator via private message.
 3. Email an administrator at: admin@forumpromotion.net
 
@@ -47,3 +47,7 @@ Best regards,
 
 We hope this helps with any question regarding deleting your account on Forum Promotion.
 ```
+
+### Send Message
+
+- Once you have created your message be sure to hit the **Send Direct Message Button**.
