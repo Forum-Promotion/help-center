@@ -19,6 +19,8 @@ const FeatureList = [
         Our services are designed to help you grow your website and community.
         We offer a variety of services such as Posting Packages, Graphics,
         Reviews and many more to help you grow your website and community.
+
+        This is an update
       </>
     ),
   },
