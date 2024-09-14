@@ -16,9 +16,10 @@ const FeatureList = [
     title: "Our Services",
     description: (
       <>
-        Our services are designed to help you grow your website and community.
-        We offer a variety of services such as Posting Packages, Graphics,
-        Social Promotion, AI Writing (with graphics), and many more to help you grow your website and community.
+        Our services are tailored to support the growth of your website and community.
+        We provide a range of services, including Posting Packages, Graphics,
+        Social Promotion, AI Writing (with accompanying visuals), and much more
+        to foster your online presence and enagement.
       </>
     ),
   },
