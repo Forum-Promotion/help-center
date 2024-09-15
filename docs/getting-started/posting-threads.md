@@ -20,7 +20,7 @@ Posting a thread on Forum Promotion is a great way to initiate discussions, ask 
 1. Look for a button labeled **Post New Thread** or **Create Thread**. This is located at the top of the forum page.
 2. **Click on this button** to open the thread creation interface.
 
-## Step 4: Fill in the Thread Details
+## Step 3: Fill in the Thread Details
 
 ### Title
 
@@ -42,11 +42,11 @@ Posting a thread on Forum Promotion is a great way to initiate discussions, ask 
   - Insert quotes or code blocks
   - Add images or media
 
-## Step 5: Review and Preview
+## Step 4: Review and Preview
 
 1. Before posting, take a moment to review your content.
 2. Click on the Preview button to see how your thread will look once posted.
 
-## Step 6: Post Your Thread
+## Step 5: Post Your Thread
 
 1. Once you are satisfied with your thread, click the **Post Thread button** to publish it.

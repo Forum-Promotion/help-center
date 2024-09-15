@@ -32,7 +32,7 @@ Replying to a post on a Forum Promotion is a great way to engage in discussions,
 1. If you prefer to use more formatting options, **click the Reply button**, which is usually located at the top or bottom of the thread.
 2. This will open a new text editor where you can format your response.
 
-## Step 5: Format Your Reply
+## Step 4: Format Your Reply
 
 1. Use the formatting toolbar above the text area to enhance your reply. You can:
    - Bold or italicize text
@@ -40,15 +40,15 @@ Replying to a post on a Forum Promotion is a great way to engage in discussions,
    - Insert quotes or code blocks
    - Add images or media
 
-## Step 6: Mention Other Users (Optional)
+## Step 5: Mention Other Users (Optional)
 
 - If you want to notify another user about your reply, you can mention them by typing `@username`. This will notify the mentioned user and draw their attention to your reply.
 
-## Step 7: Review and Post Your Reply
+## Step 6: Review and Post Your Reply
 
 1. Before submitting, review your message for clarity and any formatting errors.
 2. Once you are satisfied with your reply, click the **Post Reply button** to submit it.
 
-## Step 8: View Your Reply
+## Step 7: View Your Reply
 
 1. After posting, your reply will appear below the original post.

@@ -15,7 +15,7 @@ Editing your profile on Forum Promotion is a straightforward process. Follow the
 2. Click on your **username or profile picture** to open a dropdown menu.
 3. Select Account Details from the dropdown options.
 
-## Step 3: Edit Your Profile Information
+## Step 2: Edit Your Profile Information
 
 1. On your account details, utilize the **sidebar on the lefthand side** to make any edits. 
 
@@ -41,23 +41,23 @@ Editing your profile on Forum Promotion is a straightforward process. Follow the
 - **Instagram:** Display your Instagram username.
 - **Snapchat:** Display your Snapchat username.
 
-## Step 4: Change Your Avatar
+## Step 3: Change Your Avatar
 
 1. In the account details section, look for the Avatar section.
 2. Click on the **existing avatar image** to change your profile picture.
 3. Select a new image file from your device and upload it. Make sure the image meets the size requirements.
 
-## Step 5: Update Your Signature
+## Step 4: Update Your Signature
 
 1. Look for a Signature section in the account details area (left side menu).
 2. Here, you can add text, images, or links that will appear below your posts.
 3. Use the formatting options available to customize your signature as desired.
 
-## Step 6: Adjust Privacy Settings
+## Step 5: Adjust Privacy Settings
 
 1. Review and adjust who can see your profile, posts, and other information.
 
-## Step 7: Save Changes
+## Step 6: Save Changes
 
 1. After making all your desired changes, scroll down to the bottom of the page.
 2. Click the **Save button** on the bottom of the page.

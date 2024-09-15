@@ -38,7 +38,7 @@ Updating your status on Forum Promotion is a great way to share your current tho
 1. After posting, your status will appear on your profile page and will appear on the right side of the main forum index.
 2. You and other users can comment on or react to your status, fostering engagement within the community.
 
-## Step 8: Edit or Delete Your Status (If Needed)
+## Step 7: Edit or Delete Your Status (If Needed)
 
 - If you wish to change your status after posting:
 - Navigate to your profile or the feed where your status appears.
