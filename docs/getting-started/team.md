@@ -5,18 +5,44 @@ permalink: /team/
 nav_order: 4
 ---
 
-# Meet the current [staff members](https://forumpromotion.net/members/?key=staff_members) of Forum Promotion.
+# Current Staff Members of Forum Promotion.
 
-<div class="staffHeading">
-  <h2>Administration Team</h2>
-</div>
+### <font color="#2877FB">Administration Team</font>
 
-<ul>
-  <li>Cam</li>
-  <li>Malcolm</li>
-  <li>Katrina</li>
-  <li>PGen98</li>
-</ul>
+- **Communications Administrator** - [Cam](https://forumpromotion.net/members/cam.7017/)
+- **Technology Administrator** - [Malcolm](https://forumpromotion.net/members/malcolm.29780/)
+- **Projects Admin & Graphics Team Lead** - [Katrina](https://forumpromotion.net/members/katrina.44603/)
+- **Administrator** - [PGen98](https://forumpromotion.net/members/pgen98.55455/)
+
+### <font color="#49891E">Community Team</font>
+
+- **Team Member**  - [Army Wife](https://forumpromotion.net/members/army-wife.48213/)
+- **Team Member**  - [Cedric](https://forumpromotion.net/members/cedric.15244/)
+- **Team Member**  - [Grogu](https://forumpromotion.net/members/grogu.10510/)
+- **Team Member**  - [Juicy Wizard Man](https://forumpromotion.net/members/juicy-wizard-man.61785/)
+- **Team Member**  - [Red](https://forumpromotion.net/members/red.61854/)
+
+### <font color="#FF0000">Package Team</font>
+
+- **Team Lead** - [Ravenfreak](https://forumpromotion.net/members/ravenfreak.15330/)
+- **Assistant TL** - [TechWiz18](https://forumpromotion.net/members/techwiz18.2593/) 
+- **Team Member** - [Baw$e](https://forumpromotion.net/members/baw-e.62295/)
+- **Team Member** - [Charming Primrose](https://forumpromotion.net/members/charming-primrose.61871/)
+- **Team Member** - [Debashis](https://forumpromotion.net/members/debashis.26395/)
+- **Team Member** - [Heatman](https://forumpromotion.net/members/heatman.44107/)
+- **Team Member** - [Henrywrites](https://forumpromotion.net/members/henrywrites.40205/)
+- **Team Member** - [Ja sa bong](https://forumpromotion.net/members/ja-sa-bong.55611/)
+- **Team Member** - [Nomad](https://forumpromotion.net/members/nomad.40089/)
+- **Team Member** - [Uptrendfinancialsignal](https://forumpromotion.net/members/uptrendfinancialsignal.61617/)
+
+### <font color="#E2703A">Graphics Team</font>
+
+- **Team Member** - [Felly](https://forumpromotion.net/members/felly.6882/)
+
+### <font color="#A57C00">Technician Team</font>
+
+- **Team Member** - [Jimmy](https://forumpromotion.net/members/jimmy.13985/)
+
 <!--
 <div class="staffContainer">
     <div class="staffCard">
