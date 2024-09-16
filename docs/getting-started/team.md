@@ -24,8 +24,8 @@ nav_order: 4
 
 ### <font color="#FF0000">Package Team</font>
 
-- **Team Lead** - [Ravenfreak](https://forumpromotion.net/members/ravenfreak.15330/)
-- **Assistant TL** - [TechWiz18](https://forumpromotion.net/members/techwiz18.2593/) 
+- **Team Lead** - [TechWiz18](https://forumpromotion.net/members/techwiz18.2593/)
+- **Assistant TL** - [Ravenfreak](https://forumpromotion.net/members/ravenfreak.15330/)
 - **Team Member** - [Baw$e](https://forumpromotion.net/members/baw-e.62295/)
 - **Team Member** - [Charming Primrose](https://forumpromotion.net/members/charming-primrose.61871/)
 - **Team Member** - [Debashis](https://forumpromotion.net/members/debashis.26395/)
