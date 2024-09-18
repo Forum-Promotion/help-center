@@ -32,7 +32,7 @@ The Forum Promotion Administration Team, or Team Leaders, will post a thread in 
 1. Once you have completed the forms, click on **Submit** to send your application. 
 2. Once your application has been submitted, a private message will be created. Here you will be able to have confirmation that your application was received. 
 
-## Step 5: Application Processing
+## Step 4: Application Processing
 
 1. Once the Team Lead has reviewed your application, they will send you a direct message. This is where they will either interview you some more, or let you know that they have decided to go another direction.
 
