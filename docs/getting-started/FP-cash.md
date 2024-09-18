@@ -11,8 +11,8 @@ On Forum Promotion, we have our own currency commonly referred to as “FP cash�
 
 Some may ask, do you earn FP cash when you post around the forum? The answer is yes, you do earn for posting around our forum. The general amounts you earn are as follows:
 
-- Posting a New Topic will earn you 4 FP Cash
-- Replying to a Topic will earn you 2 FP Cash
+- Posting a New Topic will earn you 2 FP Cash
+- Replying to a Topic will earn you 1 FP Cash
 
 Other popular methods of earning FP Cash include: Completing Post Exchanges with other members, providing Graphics for people in the Graphics Exchange or taking part in some of the user-held competitions. Our “[Forum Cash Exchanges](https://forumpromotion.net/forums/fp-exchanges.84)" section is worth checking out if you’re after some quick and easy FP Cash.
 
