@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Understanding The Status Page
-permalink: /directory/
+permalink: /statuspage-help/
 parent: Guide
 ---
 
 # How to Read the Forum Promotion Status Page
 
-The Forum Promotion [Status Page](status.forumpromotion.net) provides real-time information about the platform's uptime, any ongoing incidents, and scheduled maintenance. Below is a guide on how to interpret and use the status page effectively.
+The Forum Promotion [Status Page](https://status.forumpromotion.net/) provides real-time information about the platform's uptime, any ongoing incidents, and scheduled maintenance. Below is a guide on how to interpret and use the status page effectively.
 
 ## Overview of the Status Page
 When you visit the status page, you will see a dashboard with different sections and statuses. Each component on the page has a color-coded indicator representing its current status:

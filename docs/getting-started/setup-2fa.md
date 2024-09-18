@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enabling 2FA
-permalink: /directory/
+permalink: /2fa/
 parent: Guide
 ---
 

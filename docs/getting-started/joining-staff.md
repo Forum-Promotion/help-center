@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Joining Staff Team
-permalink: /directory/
+permalink: /joining-the-team/
 parent: Guide
 ---
 

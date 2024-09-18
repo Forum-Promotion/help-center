@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FP Shop Guide
-permalink: /directory/
+permalink: /fpshop/
 parent: Guide
 ---
 
