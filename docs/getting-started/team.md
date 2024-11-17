@@ -16,20 +16,17 @@ nav_order: 4
 
 ### <font color="#49891E">Community Team</font>
 
+- [Grogu](https://forumpromotion.net/members/grogu.10510/) - **Team Leader**
 - [Army Wife](https://forumpromotion.net/members/army-wife.48213/) - **Team Member**
 - [Cedric](https://forumpromotion.net/members/cedric.15244/) - **Team Member**
 - [Charming Primrose](https://forumpromotion.net/members/charming-primrose.61871/) - **Team Member**
-- [Grogu](https://forumpromotion.net/members/grogu.10510/) - **Team Member**
 - [Juicy Wizard Man](https://forumpromotion.net/members/juicy-wizard-man.61785/) - **Team Member**
-- [Nyvorlas](https://forumpromotion.net/members/nyvorlas.15700/) - **Team Member**
-- [Red](https://forumpromotion.net/members/red.61854/) - **Team Member**
 
 ### <font color="#FF0000">Package Team</font>
 
 - [TechWiz18](https://forumpromotion.net/members/techwiz18.2593/) - **Team Lead**
 - [Ravenfreak](https://forumpromotion.net/members/ravenfreak.15330/) - **Assistant TL**
 - [Baw$e](https://forumpromotion.net/members/baw-e.62295/) - **Team Member**
-- [Debashis](https://forumpromotion.net/members/debashis.26395/) - **Team Member**
 - [Heatman](https://forumpromotion.net/members/heatman.44107/) - **Team Member**
 - [Henrywrites](https://forumpromotion.net/members/henrywrites.40205/) - **Team Member**
 - [Ja sa bong](https://forumpromotion.net/members/ja-sa-bong.55611/) - **Team Member**
