@@ -20,7 +20,7 @@ nav_order: 4
 - [Army Wife](https://forumpromotion.net/members/army-wife.48213/) - **Team Member**
 - [Cedric](https://forumpromotion.net/members/cedric.15244/) - **Team Member**
 - [Charming Primrose](https://forumpromotion.net/members/charming-primrose.61871/) - **Team Member**
-- [Juicy Wizard Man](https://forumpromotion.net/members/juicy-wizard-man.61785/) - **Team Member**
+- [CodyCool](https://forumpromotion.net/members/codycool.5387/) - **Team Member**
 
 ### <font color="#FF0000">Package Team</font>
 
