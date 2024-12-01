@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Follow & Unfollow Community Members
+title: Follow & Unfollow
 permalink: /follow-and-unfollow-help/
 parent: Guide
 ---

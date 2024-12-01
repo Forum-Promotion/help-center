@@ -77,8 +77,8 @@ const config = {
             position: "left",
             label: "Getting Started",
           },
-          { to: "docs/help-guides", label: "Help Guides", position: "left" },
-
+          { to: "docs/account-help", label: "Account Help", position: "left" },
+          { to: "docs/forum-help", label: "Forum Help", position: "left" },
           { to: "docs/our-services", label: "Our Services", position: "left" },
           {
             href: "https://github.com/Forum-Promotion/help-center",
@@ -102,8 +102,12 @@ const config = {
                 to: "/docs/getting-started",
               },
               {
-                label: "Help Guides",
-                to: "/docs/help-guides",
+                label: "Account Help",
+                to: "/docs/account-help",
+              },
+              {
+                label: "Forum Help",
+                to: "/docs/forum-help",
               },
               {
                 label: "Our Services",

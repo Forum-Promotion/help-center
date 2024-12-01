@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Understanding The Status Page
+title: FP Status Page
 permalink: /statuspage-help/
 parent: Guide
 ---
