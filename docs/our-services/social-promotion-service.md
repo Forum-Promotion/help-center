@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Social Promotion Service
+title: Social Promotion Services
 permalink: /social-promotion-services/
 parent: Guide
 ---
-# Social Promotion Service
+# Social Promotion Services
 
 The Forum Promotion Social Promotion Service is an easy way advertise forum, website, or blog on our social media platforms. Social Promotion Services can be redeemed for FP Cash, which is earned by posting around Forum Promotion.
 

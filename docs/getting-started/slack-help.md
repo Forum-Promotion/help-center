@@ -1,3 +1,10 @@
+---
+layout: page
+title: Community Slack Help
+permalink: /slack-help/
+parent: Guide
+---
+
 # Joining Our Slack Community Server
 
 Joining our Community Slack server allows you to chat with other community members through channels, direct messages, and more. Follow the steps below to join our Slack server:

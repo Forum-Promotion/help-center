@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Graphics Service
+title: Graphics Services
 permalink: /graphics-service/
 parent: Guide
 ---
-# Graphics Service
+# Graphics Services
 
 The Forum Promotion Graphic Service is an easy way to add more style to your blog, forum, or website. Our Graphics Team Members (GTMs) will make graphics for your communities and promotional content. Graphics can be redeemed for real currency, and in some cased FP Cash **during special events**, which is earned by posting around Forum Promotion.
 
