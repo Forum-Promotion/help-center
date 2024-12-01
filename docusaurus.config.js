@@ -102,8 +102,12 @@ const config = {
                 to: "/docs/getting-started",
               },
               {
-                label: "Help Guides",
-                to: "/docs/help-guides",
+                label: "Account Help",
+                to: "/docs/account-help",
+              },
+              {
+                label: "Forum Help",
+                to: "/docs/forum-help",
               },
               {
                 label: "Our Services",
