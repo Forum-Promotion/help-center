@@ -20,17 +20,16 @@ nav_order: 4
 - [Army Wife](https://forumpromotion.net/members/army-wife.48213/) - **Team Member**
 - [Cedric](https://forumpromotion.net/members/cedric.15244/) - **Team Member**
 - [Charming Primrose](https://forumpromotion.net/members/charming-primrose.61871/) - **Team Member**
-- [CodyCool](https://forumpromotion.net/members/codycool.5387/) - **Team Member**
+- [Matthew](https://forumpromotion.net/members/matthew.64096/) - **Team Member**
+- [USHost247](https://forumpromotion.net/members/ushost247.3904/) - **Team Member**
 
 ### <font color="#FF0000">Package Team</font>
 
 - [TechWiz18](https://forumpromotion.net/members/techwiz18.2593/) - **Team Lead**
 - [Ravenfreak](https://forumpromotion.net/members/ravenfreak.15330/) - **Assistant TL**
-- [Baw$e](https://forumpromotion.net/members/baw-e.62295/) - **Team Member**
 - [Heatman](https://forumpromotion.net/members/heatman.44107/) - **Team Member**
 - [Henrywrites](https://forumpromotion.net/members/henrywrites.40205/) - **Team Member**
 - [Ja sa bong](https://forumpromotion.net/members/ja-sa-bong.55611/) - **Team Member**
-- [Nomad](https://forumpromotion.net/members/nomad.40089/) - **Team Member**
 - [Uptrendfinancialsignal](https://forumpromotion.net/members/uptrendfinancialsignal.61617/) - **Team Member**
 
 ### <font color="#E2703A">Graphics Team</font>
@@ -39,6 +38,7 @@ nav_order: 4
 
 ### <font color="#A57C00">Technician Team</font>
 
+- [antero360](https://forumpromotion.net/members/antero360.64850/) = **Team Member**
 - [Jimmy](https://forumpromotion.net/members/jimmy.13985/) - **Team Member**
 
 <!--
