@@ -20,6 +20,8 @@ nav_order: 4
 - [Army Wife](https://forumpromotion.net/members/army-wife.48213/) - **Team Member**
 - [Cedric](https://forumpromotion.net/members/cedric.15244/) - **Team Member**
 - [Charming Primrose](https://forumpromotion.net/members/charming-primrose.61871/) - **Team Member**
+- [Matthew](https://forumpromotion.net/members/matthew.64096/) - **Team Member**
+- [USHost247](https://forumpromotion.net/members/ushost247.3904/) - **Team Member**
 
 ### <font color="#FF0000">Package Team</font>
 
