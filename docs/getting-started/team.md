@@ -27,6 +27,7 @@ nav_order: 4
 
 - [TechWiz18](https://forumpromotion.net/members/techwiz18.2593/) - **Team Lead**
 - [Ravenfreak](https://forumpromotion.net/members/ravenfreak.15330/) - **Assistant TL**
+- [Flow-er](https://forumpromotion.net/members/flow-er.63345/) - **Team Member**
 - [Heatman](https://forumpromotion.net/members/heatman.44107/) - **Team Member**
 - [Henrywrites](https://forumpromotion.net/members/henrywrites.40205/) - **Team Member**
 - [Ja sa bong](https://forumpromotion.net/members/ja-sa-bong.55611/) - **Team Member**
