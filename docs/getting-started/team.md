@@ -19,8 +19,7 @@ nav_order: 4
 - [Grogu](https://forumpromotion.net/members/grogu.10510/) - **Team Leader**
 - [Army Wife](https://forumpromotion.net/members/army-wife.48213/) - **Team Member**
 - [Cedric](https://forumpromotion.net/members/cedric.15244/) - **Team Member**
-- [Charming Primrose](https://forumpromotion.net/members/charming-primrose.61871/) - **Team Member**
-- [Matthew](https://forumpromotion.net/members/matthew.64096/) - **Team Member**
+- [Lord Saru](https://forumpromotion.net/members/lord-saru.6323/) - **Team Member**
 - [USHost247](https://forumpromotion.net/members/ushost247.3904/) - **Team Member**
 
 ### <font color="#FF0000">Package Team</font>
@@ -39,7 +38,7 @@ nav_order: 4
 
 ### <font color="#A57C00">Technician Team</font>
 
-- [antero360](https://forumpromotion.net/members/antero360.64850/) = **Team Member**
+- [antero360](https://forumpromotion.net/members/antero360.64850/) - **Team Member**
 - [Jimmy](https://forumpromotion.net/members/jimmy.13985/) - **Team Member**
 
 <!--
