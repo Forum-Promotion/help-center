@@ -18,7 +18,7 @@ nav_order: 4
 
 - [Grogu](https://forumpromotion.net/members/grogu.10510/) - **Team Leader**
 - [Army Wife](https://forumpromotion.net/members/army-wife.48213/) - **Team Member**
-- [Cedric](https://forumpromotion.net/members/cedric.15244/) - **Team Member**
+- [Gio](https://forumpromotion.net/members/gio.12056/) - **Team Member**
 - [Lord Saru](https://forumpromotion.net/members/lord-saru.6323/) - **Team Member**
 - [USHost247](https://forumpromotion.net/members/ushost247.3904/) - **Team Member**
 
@@ -31,6 +31,7 @@ nav_order: 4
 - [Henrywrites](https://forumpromotion.net/members/henrywrites.40205/) - **Team Member**
 - [Ja sa bong](https://forumpromotion.net/members/ja-sa-bong.55611/) - **Team Member**
 - [Uptrendfinancialsignal](https://forumpromotion.net/members/uptrendfinancialsignal.61617/) - **Team Member**
+- [The Cat Lady](https://forumpromotion.net/members/the-cat-lady.63217/) - **Team Member**
 
 ### <font color="#E2703A">Graphics Team</font>
 
