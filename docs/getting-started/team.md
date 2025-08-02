@@ -39,7 +39,7 @@ nav_order: 4
 
 ### <font color="#A57C00">Technician Team</font>
 
-- [antero360](https://forumpromotion.net/members/antero360.64850/) - **Team Member**
+- [Antero360](https://forumpromotion.net/members/antero360.64850/) - **Team Member**
 - [Jimmy](https://forumpromotion.net/members/jimmy.13985/) - **Team Member**
 
 <!--
