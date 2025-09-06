@@ -18,9 +18,8 @@ nav_order: 4
 
 - [Grogu](https://forumpromotion.net/members/grogu.10510/) - **Team Leader**
 - [Army Wife](https://forumpromotion.net/members/army-wife.48213/) - **Team Member**
-- [Gio](https://forumpromotion.net/members/gio.12056/) - **Team Member**
 - [Lord Saru](https://forumpromotion.net/members/lord-saru.6323/) - **Team Member**
-- [USHost247](https://forumpromotion.net/members/ushost247.3904/) - **Team Member**
+- [SugarRain](https://forumpromotion.net/members/sugarrain.66546/) - **Team Member**
 
 ### <font color="#FF0000">Package Team</font>
 
