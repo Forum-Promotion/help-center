@@ -10,27 +10,26 @@ nav_order: 4
 ### <font color="#2877FB">Administration Team</font>
 
 - [Cam](https://forumpromotion.net/members/cam.7017/) - **Communications Administrator**
-- [Malcolm](https://forumpromotion.net/members/malcolm.29780/) - **Technology Administrator**
 - [Katrina](https://forumpromotion.net/members/katrina.44603/) - **Projects Admin & Graphics Team Lead**
 - [PGen98](https://forumpromotion.net/members/pgen98.55455/) - **Administrator**
 
 ### <font color="#49891E">Community Team</font>
 
-- [Grogu](https://forumpromotion.net/members/grogu.10510/) - **Team Leader**
-- [Army Wife](https://forumpromotion.net/members/army-wife.48213/) - **Team Member**
-- [Lord Saru](https://forumpromotion.net/members/lord-saru.6323/) - **Team Member**
-- [SugarRain](https://forumpromotion.net/members/sugarrain.66546/) - **Team Member**
+- [Allenafaith](https://forumpromotion.net/members/allenafaith.26639/) - **Team Member**
+- [Kirssycakes09](https://forumpromotion.net/members/krissycakes09.48213/) - **Team Member**
+- [primrose](https://forumpromotion.net/members/primrose.61871/) - **Team Member**
+- [Teg](https://forumpromotion.net/members/teg.9418/) - **Team Member**
 
 ### <font color="#FF0000">Package Team</font>
 
-- [TechWiz18](https://forumpromotion.net/members/techwiz18.2593/) - **Team Lead**
-- [Ravenfreak](https://forumpromotion.net/members/ravenfreak.15330/) - **Assistant TL**
+- [Ravenfreak](https://forumpromotion.net/members/ravenfreak.15330/) - **Team Lead**
+- [The Cat Lady](https://forumpromotion.net/members/the-cat-lady.63217/) - **Team Lead Assistant**
+- [Debashis](https://forumpromotion.net/members/debashis.26395/) - **Team Member**
 - [Flow-er](https://forumpromotion.net/members/flow-er.63345/) - **Team Member**
 - [Heatman](https://forumpromotion.net/members/heatman.44107/) - **Team Member**
 - [Henrywrites](https://forumpromotion.net/members/henrywrites.40205/) - **Team Member**
 - [Ja sa bong](https://forumpromotion.net/members/ja-sa-bong.55611/) - **Team Member**
 - [Uptrendfinancialsignal](https://forumpromotion.net/members/uptrendfinancialsignal.61617/) - **Team Member**
-- [The Cat Lady](https://forumpromotion.net/members/the-cat-lady.63217/) - **Team Member**
 
 ### <font color="#E2703A">Graphics Team</font>
 
