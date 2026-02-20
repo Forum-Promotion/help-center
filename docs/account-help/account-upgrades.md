@@ -5,27 +5,19 @@ permalink: /account-upgrades/
 parent: Guide
 ---
 
-# How to purchase Account Upgrades on Forum Promotion
+# How to purchase an Account Upgrade on Forum Promotion
 
-### List of account upgrades availaible
+### Account upgrade information:
 
-**Alpha Premium - Monthly / Annual Subscription:**
-- $1.00 USD per month or $10.00 USD per year
-- Ad-Free Experience
-
-**Beta Premium - Monthly / Annual Subscription:**
-- $2.00 USD per month or $20.00 USD per year
-- Ad-Free Experience
-- Private Forum Access
-
-**Gamma Premium - Monthly / Annual Subscription:**
-- $3.00 USD per month or $30.00 USD per year
-- Ad-Free Experience
+**Promotion+ - Monthly / Annual Subscription:**
+- $2.99 USD per month or $29.99 USD per year
+- Free Website Promotion
+- Official Service Access
 - Private Forum Access
 - Bold & Purple Username
-- "Gamma Premium" Rank
-- Ability to change username
-- Ability to change user title
+- Exclusive Promotion+ Rank
+- Increased Profile Modifications
+- Ad-Free Experience
 
 --
 
