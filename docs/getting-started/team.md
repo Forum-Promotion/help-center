@@ -10,6 +10,7 @@ nav_order: 4
 ### <font color="#2877FB">Administration Team</font>
 
 - [Cam](https://forumpromotion.net/members/cam.7017/) - **Communications Administrator**
+- [Jimmy](https://forumpromotion.net/members/jimmy.13985/) - **Administrator**
 - [Katrina](https://forumpromotion.net/members/katrina.44603/) - **Projects Admin & Graphics Team Lead**
 - [PGen98](https://forumpromotion.net/members/pgen98.55455/) - **Administrator**
 
@@ -36,10 +37,6 @@ nav_order: 4
 
 - [Felly](https://forumpromotion.net/members/felly.6882/) - **Team Member**
 
-### <font color="#A57C00">Technician Team</font>
-
-- [Antero360](https://forumpromotion.net/members/antero360.64850/) - **Team Member**
-- [Jimmy](https://forumpromotion.net/members/jimmy.13985/) - **Team Member**
 
 <!--
 <div class="staffContainer">
