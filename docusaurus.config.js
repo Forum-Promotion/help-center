@@ -139,10 +139,6 @@ const config = {
                 label: "GitHub",
                 href: "https://github.com/Forum-Promotion/help-center",
               },
-              {
-                label: "Status",
-                href: "https://status.forumpromotion.net",
-              },
             ],
           },
         ],
