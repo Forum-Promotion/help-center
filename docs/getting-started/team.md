@@ -17,21 +17,19 @@ nav_order: 4
 ### <font color="#49891E">Community Team</font>
 
 - [Allenafaith](https://forumpromotion.net/members/allenafaith.26639/) - **Team Leader**
-- [Krissycakes09](https://forumpromotion.net/members/krissycakes09.48213/) - **Team Member**
 - [Phun](https://forumpromotion.net/members/phun.21062/) - **Team Member**
 - [primrose](https://forumpromotion.net/members/primrose.61871/) - **Team Member**
-- [Teg](https://forumpromotion.net/members/teg.9418/) - **Team Member**
+- [ribbonsquee](https://forumpromotion.net/members/ribbonsquee.67228/) - **Team Member**
 
 ### <font color="#FF0000">Package Team</font>
 
 - [Ravenfreak](https://forumpromotion.net/members/ravenfreak.15330/) - **Team Lead**
 - [The Cat Lady](https://forumpromotion.net/members/the-cat-lady.63217/) - **Team Lead Assistant**
 - [Debashis](https://forumpromotion.net/members/debashis.26395/) - **Team Member**
-- [Flow-er](https://forumpromotion.net/members/flow-er.63345/) - **Team Member**
+- [Gizmo](https://forumpromotion.net/members/gizmo.18309/) - **Team Member**
 - [Heatman](https://forumpromotion.net/members/heatman.44107/) - **Team Member**
 - [Henrywrites](https://forumpromotion.net/members/henrywrites.40205/) - **Team Member**
 - [Ja sa bong](https://forumpromotion.net/members/ja-sa-bong.55611/) - **Team Member**
-- [Uptrendfinancialsignal](https://forumpromotion.net/members/uptrendfinancialsignal.61617/) - **Team Member**
 
 ### <font color="#E2703A">Graphics Team</font>
 
