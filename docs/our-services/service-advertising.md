@@ -13,7 +13,8 @@ Our Advertising Services are a additional ways to promote your website. This ser
 
 **Signature Ads** are displayed in each administrator’s and team leader’s signature throughout the forum on every post they make.
 
-- **Cost:** 50 FP$
+- **Cost:** 250 FP$ per week
+- **Minimum:** 2 weeks (500 FP$)
 - Provides consistent visibility across the forum
 - A cost-effective way to promote your site
 - Great for long-term exposure and brand recognition
