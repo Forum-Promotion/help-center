@@ -1,47 +1,50 @@
 ---
 layout: page
-title: Community Slack Help
-permalink: /slack-help/
+title: Community Discord Help
+permalink: /discord-help/
 parent: Guide
 ---
 
-# Joining Our Slack Community Server
+# Joining Our Discord Community Server
 
-Joining our Community Slack server allows you to chat with other community members through channels, direct messages, and more. Follow the steps below to join our Slack server:
+Joining our Community Discord server allows you to chat with other community members through text channels, voice channels, direct messages, and more. Follow the steps below to join our Discord server:
 
 ## Step 1: Click the below Invitation Link
-[Community Slack Server Invitation](https://join.slack.com/t/forumpromotio-i9s9207/shared_invite/zt-2qk5b6duu-U_SIShU4CB_xTbo47KU_kw)
+[Community Discord Server Invitation](https://discord.gg/BHZByds9QH)
 
-## Step 2: Create a Slack Account (If You Don't Have One)
+## Step 2: Create a Discord Account (If You Don't Have One)
 
-If you don’t already have a Slack account, you’ll need to create one:
+If you don’t already have a Discord account, you’ll need to create one:
 
-1. After clicking the invitation link or the email invite button, you'll be redirected to a **sign-up page**.
-2. Enter your **name**, **email**, and create a **password**.
-3. Click **Create Account**.
+1. After clicking the invitation link, you'll be taken to Discord. Click **Accept Invite**, then choose to **Register**.
+2. Enter your **email**, **display name**, **username**, **password**, and **date of birth**.
+3. Click **Continue**, then verify your email address using the link Discord sends you.
 
-If you already have a Slack account, you can use your existing credentials to log in.
+If you already have a Discord account, simply log in and accept the invite.
 
-## Step 3: Join the Workspace
+## Step 3: Join the Server
 
 After setting up your account or logging in:
 
-1. You’ll automatically be redirected to our Slack workspace. From here you can start conversating with community and staff members.
+1. You’ll be added to our Discord server automatically.
+2. If prompted, read and agree to the server rules to unlock the channels.
+3. From here you can start chatting with community and staff members.
 
-## Step 4: Install Slack (Optional)
+## Step 4: Install Discord (Optional)
 
-You can access Slack through your web browser, but for a better experience, it’s recommended to install the Slack app on your devices.
+You can use Discord in your web browser, but for a better experience, it’s recommended to install the Discord app on your devices.
 
-### Download Slack for:
+### Download Discord for:
 - **Desktop (Windows, Mac, or Linux):**
-    - Go to [Slack Downloads](https://slack.com/downloads) and choose the appropriate version for your OS.
+    - Go to [Discord Downloads](https://discord.com/download) and choose the appropriate version for your OS.
 - **Mobile (iOS or Android):**
-    - Find Slack in the App Store (iOS) or Google Play Store (Android).
+    - Find Discord in the App Store (iOS) or Google Play Store (Android).
 
-Once installed, simply log in with your credentials, and you’ll be connected to your workspace.
+Once installed, simply log in with your account, and our server will appear in your server list on the left.
 
 ## Troubleshooting
 
 If you encounter any issues:
 - **Invalid Link**: If the invite link is expired or invalid, contact one of our staff members for a new invite.
-- **Login Issues**: Reset your password if you’re unable to log in via the Slack login page.
+- **Can't See Channels**: Make sure you've verified your email and accepted the server rules.
+- **Login Issues**: Use **Forgot your password?** on the Discord login page to reset your password.
