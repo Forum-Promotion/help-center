@@ -123,8 +123,8 @@ const config = {
                 href: "https://forumpromotion.net",
               },
               {
-                label: "Community Slack",
-                href: "https://join.slack.com/t/forumpromotio-i9s9207/shared_invite/zt-2qk5b6duu-U_SIShU4CB_xTbo47KU_kw",
+                label: "Community Discord",
+                href: "https://discord.gg/BHZByds9QH",
               },
               {
                 label: "Directory",
