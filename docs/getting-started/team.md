@@ -19,8 +19,8 @@ nav_order: 4
 - [Allenafaith](https://forumpromotion.net/members/allenafaith.26639/) - **Team Leader**
 - [Gizmo](https://forumpromotion.net/members/gizmo.18309/) - **Team Member**
 - [Phun](https://forumpromotion.net/members/phun.21062/) - **Team Member**
-- [PJMC1986](https://forumpromotion.net/members/pjmc1986.67925/)
-- [Player One](https://forumpromotion.net/members/player-one.68406/)
+- [PJMC1986](https://forumpromotion.net/members/pjmc1986.67925/) - **Team Member**
+- [Player One](https://forumpromotion.net/members/player-one.68406/) - **Team Member**
 - [primrose](https://forumpromotion.net/members/primrose.61871/) - **Team Member**
 
 ### <font color="#FF0000">Package Team</font>
