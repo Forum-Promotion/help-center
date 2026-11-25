@@ -31,16 +31,12 @@ const FeatureList = [
         able to find the answer your answer, then you can:
         <ul className="test123">
           <li>
-            Email us at{" "}
-            <a href="mailto:admin@forumpromotion.net">
-              admin@forumpromotion.net
-            </a>{" "}
-            or use our{" "}
+            Reach out via our{" "}
             <a href="https://forumpromotion.net/misc/contact">contact form. </a>
             <br></br>
             <div className="helpNotice">
-              <b>Note:</b> Account related issues please reach out via contact
-              form or email.
+              <b>Note:</b> Account related issues go through our contact
+              form.
             </div>
           </li>
           <li>

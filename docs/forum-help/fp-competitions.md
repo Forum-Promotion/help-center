@@ -7,8 +7,40 @@ parent: Guide
 
 # FP Competitions
 
-### Community of the Month
+## Community of the Month
 
-Every month, Forum Promotion holds a competitions: Community of the month. Entering This competition can be a great opportunity to promote your website or forum, by drawing extra attention to your site, and potentially winning prizes.
+**Community of the Month (CoTM)** is a monthly contest where members vote on which website, forum, or online community deserves recognition.
 
-Each Community of the Month contest is divided into two separate parts, the submission period, which runs from the 1st to the 15th of each month, and the voting period, which runs from the 16th to the last day of the month. To enter the contest, you need to submit your site between the 1st and 15th. For more information on Community of the Month, visit the [Seasonal Events Forum](https://forumpromotion.net/forums/seasonal-events.111/).
+Eligible entries are selected from Promotion Directory additions, updates, and other qualifying promotion posts made within the past month.
+
+Winners from the **previous 6 months are not eligible to win again** during that period.
+
+---
+
+### Voting Requirements & Rules
+
+- You must have made **at least 15 posts on Forum Promotion within the past 3 months** to vote.
+- You may only vote for the sites listed in the poll (no write-ins).
+- You may not vote for a site you are an administrator on.
+- You may not ask others to vote for a site you own or administrate.
+- You may not create duplicate accounts or use others' accounts to vote.
+- Any attempt to gain additional votes may result in votes being discounted and/or further action.
+
+---
+
+### Prizes
+
+- **Advertisement:** The winning site will be featured on the Community Billboard for one month.
+- **Sticky:** Your Promotion Directory topic will be stickied for one month.
+- **Free Service:** You will receive one free service of your choice on FP (excluding Graphics).
+
+---
+
+### Timeline
+
+- **Submission Period:** 1st → 15th of each month  
+- **Voting Period:** 16th → End of the month  
+
+The poll will close at the end of the month.
+
+For more information, visit the Seasonal Events forum. For more information on Community of the Month, visit the [Seasonal Events Forum](https://forumpromotion.net/forums/seasonal-events.111/).

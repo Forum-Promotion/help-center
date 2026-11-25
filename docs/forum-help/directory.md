@@ -11,7 +11,7 @@ The Promotion Directory is a very effective way to promote your website or forum
 
 ### How to Submit Your Site
 
-Submitting your site is as simple as creating a topic in the forum. First, you will need to have five posts on forum promotion, which you can make by posting around the forum. Once you have posts, you can post a topic in the Promotion Directory by [clicking here.](https://community.forumpromotion.net/forums/promotion-directory.355/post-thread) The template is optional, but we highly recommend that you use it. Make sure to include a link, the name of your site, and a description, at minimum. Also, please take a look over the [Promotion Directory Guidelines](https://community.forumpromotion.net/threads/promotion-directory-guidelines.157370/) before posting.
+Submitting your site is as simple as creating a topic in the forum. First, you will need to have five posts on forum promotion, which you can make by posting around the forum. Once you have posts, you can post a topic in the Promotion Directory by [clicking here.](https://forumpromotion.net/forums/promotion-directory.355/post-thread) The template is optional, but we highly recommend that you use it. Make sure to include a link, the name of your site, and a description, at minimum. Also, please take a look over the [Promotion Directory Guidelines](https://forumpromotion.net/threads/promotion-directory-guidelines.157370/) before posting.
 
 ### Tips for Using the Promotion Directory
 

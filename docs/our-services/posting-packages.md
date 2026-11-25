@@ -14,7 +14,7 @@ The Forum Promotion Package Service is an easy way to grow activity on your foru
 
 **Step 2:**  [Fill out this form](https://forumpromotion.net/forums/posting-services.565/post-thread). You can also use the **Post Thread** button in the top right to open a new package request. There is a brief template which you will need to fill out first, which asks you the Website URL, Package Type, and Additional Information. 
 
-**Important:** Please make sure to read the [Package Service Guidelines](https://forumpromotion.net/threads/posting-services-guidelines-information.180299/) before requesting.
+**Important:** Please make sure to read the [Package Service Guidelines](https://forumpromotion.net/threads/posting-packages-information-guidelines.182132/) before requesting.
 
 ### Tips for Using the Package Service
 
